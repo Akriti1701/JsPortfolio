@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Akriti1701}.github.io/{JsPortfolio}'",
+    "build-gh": "parcel build --public-url 'https://Akriti1701.github.io/JsPortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
